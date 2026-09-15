@@ -158,8 +158,7 @@ pip install -r requirements.txt
 
 ## ✨ Autor
 
-Proyecto elaborado por **Will**, estudiante de Análisis de Mercados de Productos, como entrega
-académica para Alkosto (Bogotá, Colombia).
+Proyecto elaborado por **Will**.
 
 ---
 
