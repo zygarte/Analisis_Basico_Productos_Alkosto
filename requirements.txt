@@ -1,0 +1,5 @@
+pytrends
+requests
+pandas
+numpy
+matplotlib
