@@ -2,11 +2,6 @@
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/Analisis_Mercado_Alkosto.ipynb)
 
-> ☝️ **Antes de que el botón azul de arriba funcione**, reemplaza `TU_USUARIO` y `TU_REPOSITORIO` en el
-> enlace de esa misma línea por tu usuario y el nombre real de tu repositorio en GitHub. Por ejemplo, si
-> tu repositorio queda en `github.com/will123/analisis-mercado-alkosto`, el enlace debería quedar así:
-> `https://colab.research.google.com/github/will123/analisis-mercado-alkosto/blob/main/Analisis_Mercado_Alkosto.ipynb`
-
 Proyecto académico de **Análisis de Mercados de Productos** — Alkosto, Bogotá, Colombia.
 
 ---
